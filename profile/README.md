@@ -18,7 +18,7 @@ Our team has been organized into three different divisions, each tasked with spe
 | Bangkit ID | Name | Social Media |
 |:----------:|:----:|--------------|
 |C097DSX1668|Roy Andani Putra|[LinkedIn](https://www.linkedin.com/in/keressec/)  [Instagram](https://www.instagram.com/keressec/)  |
-|C350DSY2782|Shafira Van Deyli|[LinkedIn](https://www.linkedin.com/in/xxxxxxxx/)  [Instagram](https://www.instagram.com/xxxxxxx/)  |
+|C350DSY2782|Shafira Van Deyli|[LinkedIn](https://www.linkedin.com/in/shafira-van-deyli-8779381b8/)  [Instagram](https://www.instagram.com/shafira.van/)  |
 
 ### Mobile Development Division
 | Bangkit ID | Name | Social Media |
