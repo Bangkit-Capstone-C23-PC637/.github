@@ -7,6 +7,8 @@ Hello everyone! We are a group of six people from different parts of Indonesia, 
 ## Our Teams
 Our team has been organized into three different divisions, each tasked with specific duties. The Cloud Computing Division is responsible for developing APIs for handling data and building connectivity between the Machine Learning Division and the Mobile Development Division. In the Machine Learning field, our team specializes in providing algorithms for classifying images of gym equipment. In addition, our Mobile Development Division is in charge of creating interfaces for gym equipment applications.
 
+You can **demo** our features at [bangkit-capstone-c23-pc637.github.io](https://bangkit-capstone-c23-pc637.github.io/).
+
 ### Machine Learning Division
 | Bangkit ID | Name | Social Media |
 |:----------:|:----:|--------------|
